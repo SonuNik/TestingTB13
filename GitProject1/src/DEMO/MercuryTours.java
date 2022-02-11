@@ -103,6 +103,7 @@ public WebDriver driver;
 		//tagname attribute value
 		Thread.sleep(2000);
 		driver.findElement(By.cssSelector("input[name='submit']")).click();
+		System.out.println("test case complete");
 	}
 	@DataProvider
 	public  Object[][] getData()
