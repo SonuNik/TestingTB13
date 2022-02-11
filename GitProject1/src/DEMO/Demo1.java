@@ -11,6 +11,7 @@ public class Demo1
 		System.out.println("heloo m2");
 	}
 
+		public static void main(String[] args) {
 		
 			System.out.println("m1..A");
 		
