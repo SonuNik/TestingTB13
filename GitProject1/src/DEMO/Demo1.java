@@ -10,7 +10,12 @@ public class Demo1
 	{
 		System.out.println("heloo m2");
 	}
-	public static void main(String[] args) {
+	public void m3()
+	{
+		System.out.println("heloo m3");
+	}
+	
+		public static void main(String[] args) {
 		
 		
 			System.out.println("m1..A");
